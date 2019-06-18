@@ -12,6 +12,8 @@ Name the templates in a easy-to-remember way (for example: feature.md, hotfix.md
 3. Add the &template=name-of-the-template.md query string key-value
 4. The selected template will be shown
 
+![](./doc/images/query-param.png)
+
 ### 2. Use the "Saved Replies" feature
 
 1. Copy the template you want to use
@@ -20,6 +22,7 @@ Name the templates in a easy-to-remember way (for example: feature.md, hotfix.md
 
 (note that it won't be shareable, so your team may have different templates at any time)
 
+![](./doc/images/saved-reply.png)
 
 ### 3. Use a unique PR template pointing to the other templates
 
