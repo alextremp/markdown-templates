@@ -25,11 +25,11 @@ Name the templates in a easy-to-remember way.
 
 1. Create an 'index template' as a PR template in repository-root/.github/PULL_REQUEST_TEMPLATE.md
     
-    ```
-    Use the PR template that better fits to this case:
-    
-    - [Hotfix template](./PULL_REQUEST_TEMPLATE/hotfix-default.md)
-    - [Feature template](./PULL_REQUEST_TEMPLATE/feature-default.md)
-    ```
+```
+Use the PR template that better fits to this case:
+
+- [Hotfix template](./PULL_REQUEST_TEMPLATE/hotfix-default.md)
+- [Feature template](./PULL_REQUEST_TEMPLATE/feature-default.md)
+```
     
 2. When opening a new PR, the 'index template' will be shown and the developer should use which fits better to his needs
